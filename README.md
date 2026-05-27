@@ -25,6 +25,7 @@
     - [Example Output](#example-output)
   - [💪 Password Strength Guide](#-password-strength-guide)
   - [📸 Screenshots](#-screenshots)
+  - [](#)
   - [👤 Author](#-author)
   - [📄 License](#-license)
   - [🏷️ Tags](#️-tags)
@@ -119,8 +120,6 @@ How many passwords to generate? (1-10): 3
 Generate more passwords? (y/n):
 ```
 
----
-
 ## 💪 Password Strength Guide
 
 | Strength    | Criteria                                        |
@@ -129,13 +128,9 @@ Generate more passwords? (y/n):
 | 🟡 Moderate | Medium length with some complexity              |
 | 🟢 Strong   | 12+ characters with uppercase, digits & symbols |
 
----
-
 ## 📸 Screenshots
 
-> Run the script and interact with the prompts in your terminal.
-
----
+## ![password generator](Screenshot.png)
 
 ## 👤 Author
 
